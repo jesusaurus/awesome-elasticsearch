@@ -168,13 +168,14 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * [$$ Pluralsight: Getting Started With Elasticsearch for .NET Developers](http://www.pluralsight.com/courses/elasticsearch-for-dotnet-developers) this course will introduce users to Elasticsearch, how it works, and how to use it with .NET projects. 
 * [$$ Complete Guide to Elasticsearch](https://www.udemy.com/elasticsearch-complete-guide/) Comprehensive guide to Elasticsearch, the popular search engine built on Apache Lucene
 * [How Elasticsearch powers the Guardian's newsroom](http://www.infoq.com/presentations/elasticsearch-guardian)
-* [Elasticsearch Query Editor in Grafana](https://www.youtube.com/watch?v=hEztaMtobXw)  
+* [Elasticsearch Query Editor in Grafana](https://www.youtube.com/watch?v=hEztaMtobXw)
 
 ### Advanced
 * [#bbuzz 2015: Adrien Grand – Algorithms and data-structures that power Lucene and Elasticsearch](https://www.youtube.com/watch?v=eQ-rXP-D80U)
 * [Rafał Kuć - Running High Performance Fault-tolerant Elasticsearch Clusters on Docker](https://www.youtube.com/watch?list=PLq-odUc2x7i_-qsarQo7MNsrYz3rlXGMu&v=D2zR-6Tke8o) and [slides](https://sematext.com/blog/2016/06/08/elasticsearch-in-docker/)
 * [Working with Elasticsearch - Search, Aggregate, Analyze, and Scale Large Volume Datastores](http://shop.oreilly.com/product/0636920043898.do) -  O'Reilly Media
 * [End-to-end Recommender System with Spark and Elasticsearch](https://www.youtube.com/watch?v=sa_Y488vj0M) by Nick Pentreath & Jean-François Puget. [Slide deck](http://www.slideshare.net/sparktc/spark-ml-meedup-pentreath-puget)
+* [Processing Continuous Integration Log Events for Great Good](https://www.youtube.com/watch?v=xGLMe2dyx6k) including test failure anomaly detection using CRM114
 
 ### Code, configuration file samples and other gists
 * [Elasticsearch config for a write-heavy cluster](https://gist.github.com/reyjrar/4364063) - reyjrar/elasticsearch.yml
